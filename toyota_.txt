@@ -1,0 +1,39 @@
+Project Task: Analyzing Toyota Car Data
+
+Data Source:https://www.kaggle.com/datasets/chinmaypradhan29/toyota-dataset/code
+
+Questions to Answer:
+
+Price Distribution:
+
+What is the distribution of car prices in the dataset?
+What is the average price of Toyota cars?
+
+
+Age vs. Price:
+How does the age of a car affect its price?
+
+
+Fuel Type Distribution:
+
+What is the distribution of fuel types among Toyota cars?
+
+
+Horsepower vs. Mileage:
+
+Is there a correlation between the horsepower and mileage of the cars?
+
+
+Automatic vs. Manual Cars:
+
+How many cars are automatic, and how many are manual?
+
+
+Engine Size Distribution:
+
+What is the distribution of engine sizes among Toyota cars?
+
+
+Weight vs. Horsepower:
+
+Is there a relationship between the weight of the car and its horsepower?
